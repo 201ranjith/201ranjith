@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ranjith Raghul.S
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-I'm a Fresher with expertise in Java, JavaScript,Angular, HTML,CSS, And TypeScript. I recently completed my MCA (MASTER OF COMPUTER APPLICATION) degree.
+I'm a Fresher with expertise in Java, JavaScript,Angular, HTML,CSS,TypeScript And Ionic Framework. I recently completed my MCA (MASTER OF COMPUTER APPLICATION) degree.
 - 🔭 Here's my [portfolio](https://ranjithraghul.000webhostapp.com/)
 - 🌱 I’m currently learning Ionic Framework
 - 💬 Ask me about Tech
